@@ -28,7 +28,7 @@ CreditFlow is a modern web application designed to simplify and streamline the c
 ## Demo
 
 ### Live Demo
-Visit the live demo: [CreditFlow Live Demo](https://credit-flow-hub.lovable.app/)
+Visit the live demo: [CreditFlow Live Demo](https://credit-flow-hub-clean.vercel.app/)
 
 ### Demo Accounts
 
